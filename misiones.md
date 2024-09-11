@@ -1,3 +1,5 @@
 # Misiones 
 
-* investigar los ´lanes del Dr.Doom
+* investigar los planes del Dr.Doom
+
+* Capturar a un xenomorfo
